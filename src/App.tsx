@@ -110,8 +110,8 @@ function App() {
               <a className="button button-ghost" href="#contact">Get in touch <Mail size={16} /></a>
             </div>
             <div className="social-row">
-              <a href="#contact">LinkedIn <ArrowUpRight size={13} /></a>
-              <a href="#contact">GitHub <ArrowUpRight size={13} /></a>
+              <a href="https://www.linkedin.com/in/praveen-kumar-s-v" target="_blank" rel="noopener noreferrer">LinkedIn <ArrowUpRight size={13} /></a>
+              <a href="https://github.com/praveenkumar251656-coder" target="_blank" rel="noopener noreferrer">GitHub <ArrowUpRight size={13} /></a>
               <span className="social-divider" />
               <span>AI / ML · Web · Innovation</span>
             </div>
@@ -180,7 +180,7 @@ function App() {
 
         <section className="contact section-frame" id="contact">
           <div className="contact-orb" /><div className="section-label"><span>06</span><span className="label-line" /><span>Start a conversation</span></div>
-          <div className="contact-content"><Quote size={32} /><h2>Let’s build something<br /><em>meaningful.</em></h2><p>Have an idea, project, collaboration, or opportunity? Feel free to connect.</p><a className="button button-primary" href="mailto:praveenkumar251656@gmail.com">Send an email <Mail size={17} /></a><div className="contact-links"><a href="mailto:praveenkumar251656@gmail.com"><span><Mail size={16} /></span>praveenkumar251656@gmail.com<ArrowUpRight size={15} /></a><a href="#contact"><span><Linkedin size={16} /></span>Praveen Kumar S.V.<ArrowUpRight size={15} /></a><a href="#contact"><span><Github size={16} /></span>praveenkumar251656-coder<ArrowUpRight size={15} /></a></div></div>
+          <div className="contact-content"><Quote size={32} /><h2>Let’s build something<br /><em>meaningful.</em></h2><p>Have an idea, project, collaboration, or opportunity? Feel free to connect.</p><a className="button button-primary" href="mailto:praveenkumar251656@gmail.com">Send an email <Mail size={17} /></a><div className="contact-links"><a href="mailto:praveenkumar251656@gmail.com"><span><Mail size={16} /></span>praveenkumar251656@gmail.com<ArrowUpRight size={15} /></a><a href="https://www.linkedin.com/in/praveen-kumar-s-v" target="_blank" rel="noopener noreferrer"><span><Linkedin size={16} /></span>Praveen Kumar S.V.<ArrowUpRight size={15} /></a><a href="https://github.com/praveenkumar251656-coder" target="_blank" rel="noopener noreferrer"><span><Github size={16} /></span>praveenkumar251656-coder<ArrowUpRight size={15} /></a></div></div>
         </section>
       </main>
 
